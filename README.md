@@ -1,16 +1,20 @@
-## 👋 Hi there! Welcome to my GitHub
-I'm just starting my journey in the tech world and taking my first steps here on GitHub. I'm passionate about learning, creating, and collaborating. I’m also looking to connect with other developers, learn from the community, and grow together. If you have any tips or resources for beginners, please, feel free to share!
+Hi, I'm Felipe.
 
-🚀 About Me:
+I'm just beginning my journey in tech and on GitHub. I enjoy learning, building things, and collaborating with others. I'm always open to connecting with developers, learning from the community, and growing along the way.
 
-🔭 I’m currently diving into the Full Stack Developer course by Rocketseat, where I’m learning key skills to build real-world applications from scratch.
+## Currently
+- Taking Rocketseat’s Full Stack Developer course, focusing on the skills needed to build real-world applications from scratch.
 
-🎓 I'm pursuing a Bachelor’s degree at UFABC, and I’m also exploring the possibility of remotely joining another university program to expand my knowledge in the tech field.
+## Education
+- Pursuing a Bachelor’s degree in Systems Analysis and Development (ADS) at Descomplica
+- Exploring the possibility of joining an additional remote university program to broaden my knowledge in tech
 
-🌱 I’m especially interested in web development, open source projects, and building meaningful tools that can help people.
+## Interests
+- Web development, open-source projects, and creating useful tools that can help people
 
-⚡ Fun facts: I play several musical instruments 🎸🥁, and I’m a big fan of games across different platforms 🎮.
+## Outside of Code
+- Play several musical instruments
+- Enjoy games across different platforms
 
-📫 How to reach me?
-My personal e-mail is felipe.aguiar7782@gmail.com. 
-You can reach out to chat, collaborate, or share some advice — I'm all ears! Let's grow together in this journey. 
+## Contact
+Feel free to reach me at felipe.aguiar7782@gmail.com — whether it's to chat, collaborate, or share advice. Looking forward to connecting.
